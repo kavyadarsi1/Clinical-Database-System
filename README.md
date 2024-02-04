@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kavyadarsi1
-- 👀 I’m interested in DATA
-- 🌱 I’m currently learning DATA SCIENCE
-- 💞️ I’m looking to collaborate on DATA SCIENCE PROJECTS
-- 📫 How to reach me <-"kavyadarsi4@gmail.com"
+- 👋 Hi, I’m @kavyadarsi
+- 👀 I’m in love with DATA
+- 🌱 I’m currently learningData Related Jobs
+- 📫 How to reach me <-"vdarsi@syr.edu"
 
 <!---
 kavyadarsi1/kavyadarsi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

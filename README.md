@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kavyadarsi
 - 👀 I’m in love with DATA
-- 🌱 I’m currently learningData Related Jobs
+- 🌱 I’m currently learning
+- I am looking for Data Related Jobs
 - 📫 How to reach me <-"vdarsi@syr.edu"
 
 <!---
